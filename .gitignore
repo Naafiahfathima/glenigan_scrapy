@@ -1,1 +1,5 @@
 /venv
+/html_dumps/html_dumps/spiders/html_dumps
+.env
+__pycache__
+glenigan/glenigan/output.json

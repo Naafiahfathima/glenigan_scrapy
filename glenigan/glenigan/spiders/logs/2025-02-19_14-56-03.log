@@ -1,0 +1,445 @@
+2025-02-19 14:56:03,736 - INFO - Loading council details from: C:\Users\naafiah.fathima\Desktop\glenigan_scrapy\glenigan\glenigan\output.json
+2025-02-19 14:56:09,192 - INFO - Initiating request for council: Croydon (1)
+2025-02-19 14:56:09,207 - INFO - Initiating request for council: Bromley (2)
+2025-02-19 14:56:09,218 - INFO - Initiating request for council: Barnet (3)
+2025-02-19 14:56:09,221 - INFO - Initiating request for council: Ealing (4)
+2025-02-19 14:56:09,225 - INFO - Initiating request for council: Lambeth (6)
+2025-02-19 14:56:09,228 - INFO - Initiating request for council: Enfield (7)
+2025-02-19 14:56:09,231 - INFO - Initiating request for council: Brent (8)
+2025-02-19 14:56:09,237 - INFO - Initiating request for council: Lewisham (10)
+2025-02-19 14:56:09,240 - INFO - Initiating request for council: Newham (13)
+2025-02-19 14:56:09,243 - INFO - Initiating request for council: Southwark (15)
+2025-02-19 14:56:09,246 - INFO - Initiating request for council: Bexley (17)
+2025-02-19 14:56:09,247 - INFO - Initiating request for council: Westminster (18)
+2025-02-19 14:56:09,251 - INFO - Initiating request for council: Greenwich (19)
+2025-02-19 14:56:09,254 - INFO - Initiating request for council: Sutton (25)
+2025-02-19 14:56:09,256 - INFO - Initiating request for council: Hammersmith & Fulham (28)
+2025-02-19 14:56:09,261 - INFO - Initiating request for council: Tower Hamlets (30)
+2025-02-19 14:56:11,889 - INFO - Initiating request for council: Kingston-On-Thames (32)
+2025-02-19 14:56:11,922 - INFO - Initiating request for council: Aberdeen (35)
+2025-02-19 14:56:12,005 - INFO - CSRF token : 405ba8bf-685e-4233-9595-df855ec7c408
+2025-02-19 14:56:12,041 - INFO - CSRF token : d64c38d3-0274-4167-82a0-7defb9a6394c
+2025-02-19 14:56:12,271 - INFO - CSRF token : a53ebe0d-e819-433c-b751-f9710a3fa454
+2025-02-19 14:56:12,667 - INFO - CSRF token : 342a4b9d-3658-4c89-b991-7c741393ab07
+2025-02-19 14:56:12,723 - INFO - CSRF token : 35ff3ed7-e774-4b47-a668-fb8ae92363bc
+2025-02-19 14:56:12,821 - INFO - CSRF token : 75774627-a517-4a15-aaae-a553a01782d8
+2025-02-19 14:56:13,184 - INFO - CSRF token : 9fd770fa-1391-4770-8718-c7f67f9d7291
+2025-02-19 14:56:13,196 - INFO - CSRF token : 76f0fdcc-a39f-44c0-a36b-49db0457617e
+2025-02-19 14:56:13,573 - INFO - CSRF token : 27c3d755-f21d-4e69-9f8f-0e8b8bc3032a
+2025-02-19 14:56:13,722 - INFO - Initiating request for council: Angus (36)
+2025-02-19 14:56:13,745 - INFO - Initiating request for council: Aberdeenshire (40)
+2025-02-19 14:56:13,776 - INFO - CSRF token : 690ee1a1-d0fa-4df0-afd6-57755562910f
+2025-02-19 14:56:13,779 - INFO - CSRF token : 0806354c-6eb7-41e0-9c3e-645697685a41
+2025-02-19 14:56:13,822 - INFO - CSRF token : cbe77a61-83d1-414e-9a18-bbb41b8867ec
+2025-02-19 14:56:13,855 - INFO - CSRF token : 90498a2f-bb77-46f7-a774-adc725e3fb39
+2025-02-19 14:56:13,906 - INFO - CSRF token : 07f304e0-89d6-4fa6-90dc-a3d7178cc7fd
+2025-02-19 14:56:14,038 - INFO - No applications found for Newham.
+2025-02-19 14:56:14,125 - INFO - CSRF token : f56e1648-22d2-4336-bf45-04067d7fd7e6
+2025-02-19 14:56:15,399 - INFO - Initiating request for council: East Dunbarton (41)
+2025-02-19 14:56:15,399 - INFO - No applications found for Brent.
+2025-02-19 14:56:15,399 - INFO - No applications found for Greenwich.
+2025-02-19 14:56:15,417 - INFO - CSRF token : 0f1d81e2-62f2-48d3-8235-c0d7f0721c9b
+2025-02-19 14:56:15,538 - INFO - No applications found for Tower Hamlets.
+2025-02-19 14:56:15,546 - INFO - Initiating request for council: Scottish Borders (42)
+2025-02-19 14:56:15,587 - INFO - Initiating request for council: Clackmannanshire (44)
+2025-02-19 14:56:15,652 - INFO - Initiating request for council: South Lanarkshire (46)
+2025-02-19 14:56:15,652 - INFO - No applications found for Bromley.
+2025-02-19 14:56:16,034 - INFO - CSRF token : 3ff38b20-fbe2-44a8-ba1c-3ab0a88af080
+2025-02-19 14:56:16,312 - INFO - No applications found for Lewisham.
+2025-02-19 14:56:16,358 - INFO - Initiating request for council: East Ayrshire (48)
+2025-02-19 14:56:16,815 - INFO - Initiating request for council: North Ayrshire (49)
+2025-02-19 14:56:17,000 - INFO - Initiating request for council: Dundee (51)
+2025-02-19 14:56:17,338 - INFO - Initiating request for council: Fife (52)
+2025-02-19 14:56:17,479 - INFO - Initiating request for council: East Lothian (54)
+2025-02-19 14:56:17,482 - INFO - No applications found for Westminster.
+2025-02-19 14:56:17,727 - INFO - CSRF token : 5246bb0f-e233-4265-8afb-547bd0a08744
+2025-02-19 14:56:18,603 - INFO - Initiating request for council: East Renfrewshire (55)
+2025-02-19 14:56:18,612 - INFO - CSRF token : 5fec70ed-4954-4d39-8a32-495cf89f028f
+2025-02-19 14:56:18,623 - INFO - Initiating request for council: Edinburgh (56)
+2025-02-19 14:56:18,627 - INFO - Initiating request for council: Falkirk (58)
+2025-02-19 14:56:18,630 - INFO - Initiating request for council: Glasgow (59)
+2025-02-19 14:56:18,633 - INFO - CSRF token : 9ace898f-f7b8-4fb2-9a27-e8b792aca6ef
+2025-02-19 14:56:18,635 - INFO - No applications found for Bexley.
+2025-02-19 14:56:18,640 - INFO - No applications found for Enfield.
+2025-02-19 14:56:18,643 - INFO - CSRF token : 13a5048f-058c-4f85-b185-e8caaf3accf8
+2025-02-19 14:56:18,644 - INFO - CSRF token : c3cd785e-750d-4b13-bde3-4c35853d82c3
+2025-02-19 14:56:18,722 - INFO - No applications found for Kingston-On-Thames.
+2025-02-19 14:56:20,697 - INFO - CSRF token : 76dd64c3-de27-4233-8b64-7fcbb33de7a9
+2025-02-19 14:56:21,007 - INFO - Initiating request for council: Inverclyde (62)
+2025-02-19 14:56:21,173 - INFO - Initiating request for council: Highland (63)
+2025-02-19 14:56:21,315 - INFO - Initiating request for council: South Ayrshire (67)
+2025-02-19 14:56:21,315 - INFO - No applications found for Angus.
+2025-02-19 14:56:21,558 - INFO - Initiating request for council: Midlothian (70)
+2025-02-19 14:56:21,780 - INFO - CSRF token : c398e443-4ccd-47e6-bec7-8abb253725e5
+2025-02-19 14:56:21,780 - INFO - CSRF token : 277728ae-45f2-40be-a9ec-d1d0445fb36a
+2025-02-19 14:56:21,795 - INFO - No applications found for East Dunbarton.
+2025-02-19 14:56:22,164 - INFO - CSRF token : 7c2cdf9b-a84d-4b8a-80cf-94bf2f99244f
+2025-02-19 14:56:22,180 - INFO - CSRF token : a143da74-a570-400c-bb3e-f59466924310
+2025-02-19 14:56:23,079 - INFO - No applications found for South Lanarkshire.
+2025-02-19 14:56:23,094 - INFO - Initiating request for council: Moray (72)
+2025-02-19 14:56:23,262 - INFO - Initiating request for council: North Lanarkshire (73)
+2025-02-19 14:56:23,278 - INFO - Initiating request for council: Dumfries & Galloway (75)
+2025-02-19 14:56:23,415 - INFO - Initiating request for council: Perth & Kinross (77)
+2025-02-19 14:56:23,738 - INFO - Initiating request for council: Stirling (83)
+2025-02-19 14:56:23,989 - INFO - CSRF token : 3babab4b-0383-45cc-84ce-311a5054d129
+2025-02-19 14:56:24,397 - INFO - CSRF token : 1e4e20d4-9d01-4724-a6b5-d74db2b307fa
+2025-02-19 14:56:24,415 - INFO - CSRF token : 7e008ce6-c44a-4a77-87e6-1097f0c3ce55
+2025-02-19 14:56:24,635 - INFO - CSRF token : 948a0cb9-a1bb-4e09-b14c-3a80a3d64a69
+2025-02-19 14:56:25,503 - INFO - No applications found for North Ayrshire.
+2025-02-19 14:56:25,665 - INFO - CSRF token : 10df9a79-2b1a-4471-9a1d-7177b64e1481
+2025-02-19 14:56:25,818 - INFO - No applications found for East Ayrshire.
+2025-02-19 14:56:26,720 - INFO - CSRF token : ec568d2e-9405-4375-8b15-67adcf0cb3e8
+2025-02-19 14:56:27,083 - INFO - No applications found for Dundee.
+2025-02-19 14:56:27,905 - INFO - Initiating request for council: West Lothian (87)
+2025-02-19 14:56:28,048 - INFO - Initiating request for council: Aylesbury Vale (100)
+2025-02-19 14:56:28,048 - INFO - No applications found for Fife.
+2025-02-19 14:56:28,190 - INFO - Initiating request for council: Basildon (104)
+2025-02-19 14:56:28,473 - INFO - Initiating request for council: Basingstoke & Deane (105)
+2025-02-19 14:56:28,481 - INFO - CSRF token : 1c9a4a2c-ef0a-4bca-8da8-29a1105b17bd
+2025-02-19 14:56:28,485 - INFO - CSRF token : 5f2143fb-753a-42d0-b224-fb91f8bcadae
+2025-02-19 14:56:28,861 - INFO - CSRF token : 91512c3c-5ce1-4018-958d-146c28350c75
+2025-02-19 14:56:29,071 - INFO - Initiating request for council: Bassetlaw (106)
+2025-02-19 14:56:29,075 - INFO - No applications found for Clackmannanshire.
+2025-02-19 14:56:29,311 - INFO - Initiating request for council: Blaby (111)
+2025-02-19 14:56:29,321 - INFO - CSRF token : 50c6d1f6-7fc9-48e4-9304-db324746d623
+2025-02-19 14:56:29,904 - INFO - CSRF token : b29a456f-463b-4c21-b9a6-d09953357974
+2025-02-19 14:56:29,904 - INFO - No applications found for Glasgow.
+2025-02-19 14:56:29,904 - INFO - No applications found for Inverclyde.
+2025-02-19 14:56:30,144 - INFO - CSRF token : 4ac15c96-c5e0-4e05-ad0b-26ca6fa1770a
+2025-02-19 14:56:31,911 - INFO - Initiating request for council: Blackpool (113)
+2025-02-19 14:56:32,651 - INFO - Initiating request for council: Bolsover (116)
+2025-02-19 14:56:32,825 - INFO - Initiating request for council: Bolton (117)
+2025-02-19 14:56:33,484 - INFO - Initiating request for council: Boston (119)
+2025-02-19 14:56:33,484 - INFO - No applications found for South Ayrshire.
+2025-02-19 14:56:33,782 - INFO - Initiating request for council: Bracknell Forest (121)
+2025-02-19 14:56:33,924 - INFO - Initiating request for council: Bradford (122)
+2025-02-19 14:56:33,939 - INFO - CSRF token : 1ed1562d-d429-40bc-9ecd-27b5a3d3b362
+2025-02-19 14:56:34,536 - INFO - CSRF token : b9515385-6c07-495a-96ed-8ed7f924cc55
+2025-02-19 14:56:34,694 - INFO - No applications found for North Lanarkshire.
+2025-02-19 14:56:34,914 - INFO - CSRF token : bbb0b3ac-8455-416d-b8a8-cec8ca8f84aa
+2025-02-19 14:56:35,322 - INFO - No applications found for Highland.
+2025-02-19 14:56:36,679 - INFO - No applications found for Aylesbury Vale.
+2025-02-19 14:56:36,868 - INFO - Initiating request for council: Braintree (123)
+2025-02-19 14:56:36,977 - INFO - No applications found for Basildon.
+2025-02-19 14:56:37,262 - INFO - Initiating request for council: Brentwood (126)
+2025-02-19 14:56:37,662 - INFO - Initiating request for council: Brighton & Hove (128)
+2025-02-19 14:56:38,163 - INFO - Initiating request for council: Bristol (129)
+2025-02-19 14:56:38,250 - INFO - Initiating request for council: Bromsgrove (131)
+2025-02-19 14:56:38,266 - INFO - No applications found for Falkirk.
+2025-02-19 14:56:38,363 - INFO - CSRF token : d59dd7bb-9d45-42be-b764-738a027a2995
+2025-02-19 14:56:38,628 - INFO - CSRF token : 88eef1a1-b643-4679-9ce7-e1e342ef7c60
+2025-02-19 14:56:38,865 - INFO - Initiating request for council: Burnley (134)
+2025-02-19 14:56:38,975 - INFO - CSRF token : de95925e-3ffe-4c5f-a7be-eb25e2d917f3
+2025-02-19 14:56:39,711 - INFO - Initiating request for council: Calderdale (136)
+2025-02-19 14:56:39,821 - INFO - CSRF token : f504f313-d6ae-4a72-9e1a-b3290070aa69
+2025-02-19 14:56:39,947 - INFO - CSRF token : 67c02460-bbf5-41fd-9451-cdfe759ce66d
+2025-02-19 14:56:41,409 - INFO - No applications found for Bolsover.
+2025-02-19 14:56:41,757 - INFO - Initiating request for council: Cambridge (137)
+2025-02-19 14:56:41,868 - INFO - CSRF token : 89744d0b-bcd0-4ff9-a096-c11081319150
+2025-02-19 14:56:41,980 - INFO - No applications found for Bracknell Forest.
+2025-02-19 14:56:42,364 - INFO - Initiating request for council: Canterbury (139)
+2025-02-19 14:56:42,364 - INFO - Initiating request for council: Cardiff (141)
+2025-02-19 14:56:42,416 - INFO - Initiating request for council: Carlisle (142)
+2025-02-19 14:56:42,494 - INFO - No applications found for Brentwood.
+2025-02-19 14:56:42,527 - INFO - CSRF token : 5c61c9e8-7150-4d42-99ea-a2e6bdb638bc
+2025-02-19 14:56:42,900 - INFO - CSRF token : cd532b7e-9241-41e3-a10b-58461a2a8c5b
+2025-02-19 14:56:44,449 - INFO - Initiating request for council: Castle Point (146)
+2025-02-19 14:56:44,457 - INFO - Initiating request for council: Cheltenham (150)
+2025-02-19 14:56:44,561 - INFO - CSRF token : 363f265a-0c64-455a-9f0a-d419d1a0be5e
+2025-02-19 14:56:45,499 - INFO - No applications found for Blaby.
+2025-02-19 14:56:45,601 - INFO - Initiating request for council: Chesterfield (153)
+2025-02-19 14:56:45,641 - INFO - Initiating request for council: Chichester (155)
+2025-02-19 14:56:45,715 - INFO - CSRF token : e1de385e-d5d5-427b-bf2b-60a6500f27fe
+2025-02-19 14:56:45,746 - INFO - CSRF token : 4bc2081c-06e5-4169-8f68-334207447e8c
+2025-02-19 14:56:46,597 - INFO - CSRF token : 42de77d5-9778-4f38-94a6-6b9c16e21b8d
+2025-02-19 14:56:46,931 - INFO - No applications found for Burnley.
+2025-02-19 14:56:47,866 - INFO - CSRF token : b5a11aa0-8f54-4028-9445-3a33b2f15b73
+2025-02-19 14:56:48,913 - INFO - Initiating request for council: Chiltern (156)
+2025-02-19 14:56:49,027 - INFO - No applications found for Canterbury.
+2025-02-19 14:56:49,298 - INFO - Initiating request for council: Chorley (157)
+2025-02-19 14:56:49,410 - INFO - CSRF token : d0977c1b-f262-4f51-a6d0-fcb4f1f0dd4e
+2025-02-19 14:56:50,256 - INFO - Initiating request for council: North East Lincolnshire (159)
+2025-02-19 14:56:50,259 - INFO - No applications found for Cardiff.
+2025-02-19 14:56:50,360 - INFO - No applications found for Cheltenham.
+2025-02-19 14:56:52,062 - INFO - Initiating request for council: Corby (164)
+2025-02-19 14:56:52,208 - INFO - CSRF token : de269e19-4b3d-41ca-b503-454bf7eddfce
+2025-02-19 14:56:52,755 - INFO - No applications found for Chesterfield.
+2025-02-19 14:56:53,344 - INFO - Initiating request for council: Cotswold (165)
+2025-02-19 14:56:53,459 - INFO - No applications found for Chichester.
+2025-02-19 14:56:53,808 - INFO - Initiating request for council: Craven (167)
+2025-02-19 14:56:54,445 - INFO - Initiating request for council: Dacorum (171)
+2025-02-19 14:56:54,558 - INFO - CSRF token : 93108902-8f2b-4f69-9a4e-b849cbf76339
+2025-02-19 14:56:55,907 - INFO - CSRF token : 54f82fde-a546-4e07-8517-85cc4dd90d7b
+2025-02-19 14:56:57,752 - INFO - No applications found for Chiltern.
+2025-02-19 14:56:59,841 - INFO - Initiating request for council: Darlington (172)
+2025-02-19 14:57:02,130 - INFO - Initiating request for council: Dartford (173)
+2025-02-19 14:57:02,226 - INFO - No applications found for Calderdale.
+2025-02-19 14:57:02,838 - INFO - Initiating request for council: Dover (180)
+2025-02-19 14:57:02,944 - INFO - CSRF token : dc7dd441-e2dd-4701-8789-7f4cf4deef32
+2025-02-19 14:57:06,583 - INFO - Initiating request for council: East Cambridgeshire (186)
+2025-02-19 14:57:06,693 - INFO - CSRF token : 0718972e-24df-4bd3-a91a-00e3b9036f6d
+2025-02-19 14:57:15,657 - INFO - Initiating request for council: East Hertfordshire (189)
+2025-02-19 14:57:21,819 - INFO - Initiating request for council: East Lindsey (191)
+2025-02-19 14:57:26,649 - INFO - Initiating request for council: East Northamptonshire (192)
+2025-02-19 14:57:26,767 - INFO - No applications found for Darlington.
+2025-02-19 14:57:26,841 - INFO - Initiating request for council: East Riding of Yorkshire (194)
+2025-02-19 14:57:27,517 - INFO - Initiating request for council: Fenland (203)
+2025-02-19 14:57:27,535 - INFO - Initiating request for council: Forest Of Dean (205)
+2025-02-19 14:57:29,648 - INFO - Initiating request for council: Gedling (208)
+2025-02-19 14:57:29,758 - INFO - CSRF token : 8789ea8c-0c9e-4ef5-8b08-edab6816d841
+2025-02-19 14:57:30,324 - INFO - CSRF token : c705a2c5-4274-41b3-b979-5c34ff98a005
+2025-02-19 14:57:31,109 - INFO - CSRF token : 2e890778-5f21-4137-a407-e270165e4330
+2025-02-19 14:57:31,738 - INFO - No applications found for East Northamptonshire.
+2025-02-19 14:57:33,293 - INFO - Initiating request for council: Gosport (213)
+2025-02-19 14:57:34,157 - INFO - Initiating request for council: Guildford (217)
+2025-02-19 14:57:34,267 - INFO - CSRF token : b86a6258-4ab5-4da8-835a-44775381abaf
+2025-02-19 14:57:35,112 - INFO - No applications found for Forest Of Dean.
+2025-02-19 14:57:36,274 - INFO - Initiating request for council: Harborough (220)
+2025-02-19 14:57:36,384 - INFO - CSRF token : 3b7202cc-5c62-4e18-93ce-a54bbda6fa17
+2025-02-19 14:57:37,436 - INFO - Initiating request for council: Harlow (221)
+2025-02-19 14:57:37,547 - INFO - CSRF token : 2b00c8a6-5dd4-4a59-87ea-0cecebcd84bf
+2025-02-19 14:57:37,878 - INFO - No applications found for Gedling.
+2025-02-19 14:57:39,402 - INFO - Initiating request for council: Hart (223)
+2025-02-19 14:57:39,515 - INFO - CSRF token : fb5ec398-d104-487a-9b6a-7c4d49ecc54f
+2025-02-19 14:57:39,718 - INFO - Initiating request for council: Hastings (225)
+2025-02-19 14:57:39,767 - INFO - No applications found for Gosport.
+2025-02-19 14:57:40,049 - INFO - Initiating request for council: Havant (226)
+2025-02-19 14:57:40,161 - INFO - No applications found for Guildford.
+2025-02-19 14:57:40,302 - INFO - Initiating request for council: Hertsmere (228)
+2025-02-19 14:57:40,412 - INFO - CSRF token : 25a4ae51-163e-43e1-bcea-a06ce98d619c
+2025-02-19 14:57:42,115 - INFO - No applications found for Harborough.
+2025-02-19 14:57:42,853 - INFO - Initiating request for council: Caerphilly (237)
+2025-02-19 14:57:42,963 - INFO - CSRF token : af9449fd-887f-4b53-a7a6-50a3768e4911
+2025-02-19 14:57:43,499 - INFO - CSRF token : adc6bb15-c345-4a9a-a2f4-2dcf9f4f944a
+2025-02-19 14:57:44,709 - INFO - No applications found for Harlow.
+2025-02-19 14:57:45,275 - INFO - Initiating request for council: Kings Lynn & West Norfolk (241)
+2025-02-19 14:57:45,386 - INFO - No applications found for Hastings.
+2025-02-19 14:57:47,229 - INFO - Initiating request for council: Hull City Council (242)
+2025-02-19 14:57:48,059 - INFO - Initiating request for council: Leeds (248)
+2025-02-19 14:57:48,453 - INFO - Initiating request for council: Lichfield (252)
+2025-02-19 14:57:48,559 - INFO - CSRF token : 590c290b-584a-4526-bd5a-969a13901757
+2025-02-19 14:57:50,505 - INFO - Initiating request for council: Lincoln (253)
+2025-02-19 14:57:50,609 - INFO - CSRF token : None
+2025-02-19 14:57:50,610 - ERROR - CSRF token missing for Leeds, aborting!
+2025-02-19 14:57:50,975 - INFO - Initiating request for council: Luton (257)
+2025-02-19 14:57:51,091 - INFO - CSRF token : cd4ee079-7552-4237-a442-145902cd38dd
+2025-02-19 14:57:51,667 - INFO - CSRF token : d8a553f6-e78d-4b04-a659-eae6cdfc7c39
+2025-02-19 14:57:54,459 - INFO - Initiating request for council: Maidstone (259)
+2025-02-19 14:57:54,474 - INFO - Initiating request for council: Manchester (262)
+2025-02-19 14:57:54,576 - INFO - CSRF token : None
+2025-02-19 14:57:54,578 - ERROR - CSRF token missing for Luton, aborting!
+2025-02-19 14:57:54,583 - INFO - CSRF token : 17765c12-fe63-4a4e-9e58-4a30f08f8f4f
+2025-02-19 14:57:55,632 - INFO - No applications found for Lichfield.
+2025-02-19 14:57:56,053 - INFO - Initiating request for council: Mansfield (263)
+2025-02-19 14:57:56,666 - INFO - Initiating request for council: Melton (266)
+2025-02-19 14:57:57,512 - INFO - Initiating request for council: Mendip (267)
+2025-02-19 14:57:57,707 - INFO - Initiating request for council: Mid Devon (270)
+2025-02-19 14:57:58,187 - INFO - Initiating request for council: Mid Suffolk (272)
+2025-02-19 14:57:58,289 - INFO - CSRF token : 283e16c3-f45d-45a6-aa10-0930fc43ac60
+2025-02-19 14:58:00,537 - INFO - CSRF token : 83865b2f-70e0-45dd-aee5-043ea03e9683
+2025-02-19 14:58:00,844 - INFO - CSRF token : b119dd57-c080-4389-99f8-07f5774e1515
+2025-02-19 14:58:01,564 - INFO - CSRF token : b17eff97-2ddb-446e-a7f9-23e749901cdb
+2025-02-19 14:58:02,701 - INFO - No applications found for Mansfield.
+2025-02-19 14:58:03,846 - INFO - Initiating request for council: Monmouthshire (276)
+2025-02-19 14:58:03,905 - INFO - Initiating request for council: Newark & Sherwood (279)
+2025-02-19 14:58:03,938 - INFO - CSRF token : d978bf22-346e-49d2-9417-9f09dc27e3f7
+2025-02-19 14:58:05,382 - INFO - Initiating request for council: New Forest District Council (283)
+2025-02-19 14:58:05,486 - INFO - No applications found for Lincoln.
+2025-02-19 14:58:05,651 - INFO - Initiating request for council: South Gloucestershire (286)
+2025-02-19 14:58:06,667 - INFO - Initiating request for council: North East Derbyshire (291)
+2025-02-19 14:58:06,775 - INFO - No applications found for Melton.
+2025-02-19 14:58:07,060 - INFO - Initiating request for council: North Kesteven (293)
+2025-02-19 14:58:07,265 - INFO - Initiating request for council: North Norfolk (294)
+2025-02-19 14:58:07,372 - INFO - CSRF token : 12f446f1-5ead-49da-8de2-d36de5f82174
+2025-02-19 14:58:07,660 - INFO - CSRF token : faeca5f5-dd3f-4f69-8f96-bbb84b8c41fc
+2025-02-19 14:58:07,952 - INFO - CSRF token : a32624c6-897f-47d5-8d0f-7369111392dd
+2025-02-19 14:58:08,057 - INFO - No applications found for Mendip.
+2025-02-19 14:58:09,412 - INFO - Initiating request for council: North Tyneside (296)
+2025-02-19 14:58:09,522 - INFO - No applications found for New Forest District Council.
+2025-02-19 14:58:10,162 - INFO - Initiating request for council: North West Leicestershire (298)
+2025-02-19 14:58:10,174 - INFO - Initiating request for council: Nottingham (301)
+2025-02-19 14:58:10,302 - INFO - Initiating request for council: Oadby & Wigston (303)
+2025-02-19 14:58:10,417 - INFO - No applications found for Monmouthshire.
+2025-02-19 14:58:11,059 - INFO - Initiating request for council: Oldham (305)
+2025-02-19 14:58:11,169 - INFO - CSRF token : 4f5620f1-6cef-43c5-869e-1ad08e99be70
+2025-02-19 14:58:11,364 - INFO - CSRF token : f52288c3-b0b6-46e9-b77b-96e8e85d165a
+2025-02-19 14:58:12,750 - INFO - CSRF token : c2140f7b-28da-4c29-9bc9-a071c7817307
+2025-02-19 14:58:13,649 - INFO - Initiating request for council: Oxford (307)
+2025-02-19 14:58:13,651 - INFO - Initiating request for council: Pendle (308)
+2025-02-19 14:58:13,752 - INFO - CSRF token : fca305bf-c0aa-44c4-92a7-98176a86fcb2
+2025-02-19 14:58:13,756 - INFO - CSRF token : afba7d18-e45c-41b3-9527-333509dc4680
+2025-02-19 14:58:14,213 - INFO - CSRF token : 320c9cb4-5519-4516-9d98-d6a46238addc
+2025-02-19 14:58:14,213 - INFO - No applications found for North Norfolk.
+2025-02-19 14:58:14,506 - INFO - CSRF token : d40f7cc1-db36-40be-9f2b-aaedcd7ae7bc
+2025-02-19 14:58:15,319 - INFO - No applications found for North Kesteven.
+2025-02-19 14:58:15,841 - INFO - Initiating request for council: Plymouth (311)
+2025-02-19 14:58:15,951 - INFO - No applications found for Oldham.
+2025-02-19 14:58:15,990 - INFO - Initiating request for council: Poole (312)
+2025-02-19 14:58:16,417 - INFO - Initiating request for council: Portsmouth (313)
+2025-02-19 14:58:16,534 - INFO - No applications found for Nottingham.
+2025-02-19 14:58:16,869 - INFO - Initiating request for council: Powys (317)
+2025-02-19 14:58:16,987 - INFO - No applications found for North West Leicestershire.
+2025-02-19 14:58:17,847 - INFO - Initiating request for council: Medway (328)
+2025-02-19 14:58:17,952 - INFO - No applications found for Oadby & Wigston.
+2025-02-19 14:58:18,971 - INFO - Initiating request for council: Rossendale (330)
+2025-02-19 14:58:19,078 - INFO - CSRF token : 9bd35728-4d97-414b-b064-ddbca5230051
+2025-02-19 14:58:19,313 - INFO - CSRF token : ffbac2a9-180e-4163-a0b4-d8ef3662a758
+2025-02-19 14:58:19,414 - INFO - CSRF token : 696db548-fcb9-4215-8fe2-204baf6dae8c
+2025-02-19 14:58:21,187 - INFO - CSRF token : d19bfc9b-6040-4625-9646-78d475ffa6cb
+2025-02-19 14:58:21,861 - INFO - CSRF token : cdd941e3-639e-4c11-a00a-d0e49adeb1e4
+2025-02-19 14:58:22,163 - INFO - CSRF token : 38781999-3005-46b4-a855-24cab9deb1e0
+2025-02-19 14:58:22,363 - INFO - No applications found for Plymouth.
+2025-02-19 14:58:22,370 - INFO - Initiating request for council: Rushcliffe (335)
+2025-02-19 14:58:22,872 - INFO - Initiating request for council: Rushmoor (336)
+2025-02-19 14:58:22,985 - INFO - No applications found for Portsmouth.
+2025-02-19 14:58:23,912 - INFO - Initiating request for council: Rutland (337)
+2025-02-19 14:58:24,020 - INFO - No applications found for Rossendale.
+2025-02-19 14:58:25,243 - INFO - Initiating request for council: St. Helens (341)
+2025-02-19 14:58:25,480 - INFO - Initiating request for council: Sandwell (344)
+2025-02-19 14:58:26,269 - INFO - Initiating request for council: Scarborough (345)
+2025-02-19 14:58:29,020 - INFO - Initiating request for council: Sefton (349)
+2025-02-19 14:58:29,130 - INFO - CSRF token : cb6e8406-8902-412a-8849-9cb0317daf03
+2025-02-19 14:58:29,365 - INFO - CSRF token : fd360cde-913e-47ec-bcb2-77a30b321a6e
+2025-02-19 14:58:29,736 - INFO - CSRF token : 81344564-9bd9-4186-bef9-e883ba3ca854
+2025-02-19 14:58:30,163 - INFO - Initiating request for council: Sevenoaks (351)
+2025-02-19 14:58:30,270 - INFO - CSRF token : 059ef358-2d3c-4374-a58a-8aab81a3ebd7
+2025-02-19 14:58:31,709 - INFO - Initiating request for council: Sheffield (352)
+2025-02-19 14:58:31,820 - INFO - No applications found for Rushmoor.
+2025-02-19 14:58:32,256 - INFO - Initiating request for council: Solihull (356)
+2025-02-19 14:58:32,366 - INFO - CSRF token : a12a8814-8be1-44bb-9788-5de3127a95f2
+2025-02-19 14:58:34,144 - INFO - Initiating request for council: Southampton (357)
+2025-02-19 14:58:34,216 - INFO - No applications found for St. Helens.
+2025-02-19 14:58:34,353 - INFO - Initiating request for council: South Norfolk (368)
+2025-02-19 14:58:34,463 - INFO - CSRF token : 178f67c1-8562-48df-98ee-1ae2d1c4af29
+2025-02-19 14:58:34,972 - INFO - CSRF token : 80e3efd9-a6d7-4076-9c38-9bc2b186bc4b
+2025-02-19 14:58:35,585 - INFO - CSRF token : 9368a799-712c-4aea-b704-140e6e6515de
+2025-02-19 14:58:36,293 - INFO - No applications found for Sefton.
+2025-02-19 14:58:36,545 - INFO - Initiating request for council: South Ribble (372)
+2025-02-19 14:58:36,653 - INFO - CSRF token : b27658d2-ed61-4050-a62c-18b4529623c4
+2025-02-19 14:58:36,967 - INFO - CSRF token : None
+2025-02-19 14:58:36,967 - ERROR - CSRF token missing for Southampton, aborting!
+2025-02-19 14:58:38,639 - INFO - Initiating request for council: South Staffordshire (374)
+2025-02-19 14:58:38,747 - INFO - No applications found for Solihull.
+2025-02-19 14:58:39,740 - INFO - Initiating request for council: Isle of Wight (376)
+2025-02-19 14:58:40,055 - INFO - Initiating request for council: Stevenage (380)
+2025-02-19 14:58:40,159 - INFO - No applications found for Sevenoaks.
+2025-02-19 14:58:40,625 - INFO - Initiating request for council: Stockport (381)
+2025-02-19 14:58:40,778 - INFO - Initiating request for council: Stockton-On-Tees (382)
+2025-02-19 14:58:40,804 - INFO - Initiating request for council: Stoke-On-Trent (383)
+2025-02-19 14:58:40,900 - INFO - CSRF token : 96aface9-bad9-4277-a59a-dfc416754fa4
+2025-02-19 14:58:40,911 - INFO - CSRF token : 4436d19a-ed99-4f69-8902-eb4b116c8191
+2025-02-19 14:58:44,182 - INFO - Initiating request for council: Stroud (385)
+2025-02-19 14:58:44,201 - INFO - Initiating request for council: Sunderland (387)
+2025-02-19 14:58:44,298 - INFO - CSRF token : aac20823-9cdf-45f5-ac98-4d911347237f
+2025-02-19 14:58:44,315 - INFO - CSRF token : dacc4871-a922-48a9-9f90-9eae5bed4cf8
+2025-02-19 14:58:44,612 - INFO - No applications found for South Ribble.
+2025-02-19 14:58:44,953 - INFO - CSRF token : None
+2025-02-19 14:58:44,953 - ERROR - CSRF token missing for Stoke-On-Trent, aborting!
+2025-02-19 14:58:45,641 - INFO - Initiating request for council: Surrey Heath (388)
+2025-02-19 14:58:45,682 - INFO - Initiating request for council: Swansea (390)
+2025-02-19 14:58:45,748 - INFO - No applications found for South Staffordshire.
+2025-02-19 14:58:46,261 - INFO - Initiating request for council: Swindon (391)
+2025-02-19 14:58:46,442 - INFO - Initiating request for council: Teignbridge (397)
+2025-02-19 14:58:47,293 - INFO - Initiating request for council: Tendring (398)
+2025-02-19 14:58:47,839 - INFO - Initiating request for council: Test Valley (399)
+2025-02-19 14:58:47,839 - INFO - Initiating request for council: Tewkesbury (400)
+2025-02-19 14:58:47,958 - INFO - CSRF token : a7f6a59f-5bbb-4059-b2ba-4b038b1a294f
+2025-02-19 14:58:47,958 - INFO - CSRF token : 68fe9f06-9fcd-41bd-b4cd-d277dcdf3511
+2025-02-19 14:58:48,404 - INFO - CSRF token : 75a525de-070b-47c7-9984-7cf7ef5e41d4
+2025-02-19 14:58:48,681 - INFO - CSRF token : 468f3c21-4f8a-4897-b672-d25d39f9e0a1
+2025-02-19 14:58:49,216 - INFO - CSRF token : e2eef9e5-1930-424b-8c15-d326165047b0
+2025-02-19 14:58:50,336 - INFO - Initiating request for council: Thanet (402)
+2025-02-19 14:58:50,745 - INFO - Initiating request for council: Three Rivers (403)
+2025-02-19 14:58:51,132 - INFO - Initiating request for council: Thurrock (404)
+2025-02-19 14:58:51,164 - INFO - Initiating request for council: Torfaen (407)
+2025-02-19 14:58:51,267 - INFO - CSRF token : af07fbe1-6bff-4474-851a-3437791b9b53
+2025-02-19 14:58:51,924 - INFO - CSRF token : 99bc6634-a054-4eec-946c-4b2cbc88aae5
+2025-02-19 14:58:52,605 - INFO - CSRF token : f44f3408-c02c-4b9f-8b95-343429dedf91
+2025-02-19 14:58:53,100 - INFO - No applications found for Thanet.
+2025-02-19 14:58:53,961 - INFO - Initiating request for council: Torridge (408)
+2025-02-19 14:58:54,009 - INFO - Initiating request for council: Trafford (409)
+2025-02-19 14:58:54,078 - INFO - CSRF token : 80c71317-994e-4ada-94d6-1c49737a3a6a
+2025-02-19 14:58:54,128 - INFO - CSRF token : 97fc076a-a076-4683-b774-3d36154b5258
+2025-02-19 14:58:54,506 - INFO - CSRF token : 1066d12b-63f5-4056-97f8-7bcefc616e88
+2025-02-19 14:58:56,954 - INFO - Initiating request for council: Tunbridge Wells (410)
+2025-02-19 14:58:57,058 - INFO - CSRF token : 41cca7a8-49df-4fa4-83cf-452f000fdb94
+2025-02-19 14:58:57,893 - INFO - Initiating request for council: Uttlesford (412)
+2025-02-19 14:58:57,910 - INFO - No applications found for Three Rivers.
+2025-02-19 14:58:58,112 - INFO - Initiating request for council: Wakefield (416)
+2025-02-19 14:58:58,222 - INFO - No applications found for Torfaen.
+2025-02-19 14:58:58,290 - INFO - Initiating request for council: Warwick (421)
+2025-02-19 14:58:58,712 - INFO - Initiating request for council: Watford (422)
+2025-02-19 14:59:00,189 - INFO - Initiating request for council: Wellingborough (427)
+2025-02-19 14:59:00,496 - INFO - Initiating request for council: West Lancashire (432)
+2025-02-19 14:59:00,610 - INFO - CSRF token : 284c4705-3117-45d0-a6a5-0c452547879e
+2025-02-19 14:59:01,667 - INFO - Initiating request for council: West Oxfordshire (434)
+2025-02-19 14:59:01,777 - INFO - CSRF token : c59996dd-ec6f-4c54-9d71-0f0d3cb4d789
+2025-02-19 14:59:02,702 - INFO - Initiating request for council: West Somerset (435)
+2025-02-19 14:59:02,754 - INFO - CSRF token : fc628e9e-acf1-4511-8ad0-8c700296b55d
+2025-02-19 14:59:02,804 - INFO - CSRF token : 330ecfb0-c47f-4f2f-9085-b7079b9696ee
+2025-02-19 14:59:02,984 - INFO - CSRF token : 117f349f-9359-4ba2-a041-c181c8a104b5
+2025-02-19 14:59:04,044 - INFO - CSRF token : 419c83c0-a5fe-4c83-b753-dc88a283bc5a
+2025-02-19 14:59:04,477 - INFO - No applications found for Wellingborough.
+2025-02-19 14:59:05,789 - INFO - Initiating request for council: Winchester (440)
+2025-02-19 14:59:06,020 - INFO - Initiating request for council: Windsor & Maidenhead (441)
+2025-02-19 14:59:06,062 - INFO - Initiating request for council: Woking (443)
+2025-02-19 14:59:06,140 - INFO - CSRF token : aacf6059-9aaf-4cab-83bb-3b44613c3b26
+2025-02-19 14:59:06,171 - INFO - No applications found for Tunbridge Wells.
+2025-02-19 14:59:06,836 - INFO - No applications found for Warwick.
+2025-02-19 14:59:07,054 - INFO - Initiating request for council: Wolverhampton (445)
+2025-02-19 14:59:08,309 - INFO - Initiating request for council: North Somerset (446)
+2025-02-19 14:59:08,418 - INFO - No applications found for West Oxfordshire.
+2025-02-19 14:59:09,382 - INFO - Initiating request for council: Wycombe (452)
+2025-02-19 14:59:09,402 - INFO - Initiating request for council: Wyre (453)
+2025-02-19 14:59:09,521 - INFO - No applications found for West Somerset.
+2025-02-19 14:59:10,089 - INFO - Initiating request for council: Wyre Forest (454)
+2025-02-19 14:59:10,202 - INFO - CSRF token : 6875fe3c-004c-4fa3-9cf5-ddea03c76531
+2025-02-19 14:59:10,334 - INFO - CSRF token : 06afdcb7-b206-4d30-a07c-e44abd57dcb2
+2025-02-19 14:59:12,382 - INFO - Initiating request for council: Orkney Isles (458)
+2025-02-19 14:59:12,417 - INFO - CSRF token : 18197678-4a48-4248-b29f-45e5b3742966
+2025-02-19 14:59:12,489 - INFO - CSRF token : 8f81e31d-be8f-4504-9e80-460842d95bb0
+2025-02-19 14:59:12,919 - INFO - CSRF token : 90648c8f-9ea9-4cdd-985e-7a598cbcf856
+2025-02-19 14:59:14,626 - INFO - Initiating request for council: Shetland Isles (459)
+2025-02-19 14:59:14,738 - INFO - No applications found for Woking.
+2025-02-19 14:59:16,153 - INFO - Initiating request for council: Brecon Beacons National Park (476)
+2025-02-19 14:59:16,211 - INFO - Initiating request for council: Loch Lomond National Park (483)
+2025-02-19 14:59:16,324 - INFO - CSRF token : 3cd5836c-f4a7-49ef-ab68-04860ba45b91
+2025-02-19 14:59:16,828 - INFO - Initiating request for council: Shropshire (485)
+2025-02-19 14:59:17,618 - INFO - Initiating request for council: Cheshire West & Chester (487)
+2025-02-19 14:59:18,594 - INFO - Initiating request for council: Northumberland County Council (488)
+2025-02-19 14:59:18,712 - INFO - CSRF token : 6c3b5a4f-edcb-48ec-a111-ab6b07af57f0
+2025-02-19 14:59:18,817 - INFO - Initiating request for council: Durham County Council (490)
+2025-02-19 14:59:18,896 - INFO - No applications found for Orkney Isles.
+2025-02-19 14:59:18,926 - INFO - CSRF token : bd35f644-da84-43ff-af46-f1ca1318eae2
+2025-02-19 14:59:20,161 - INFO - Initiating request for council: Cornwall (491)
+2025-02-19 14:59:20,274 - INFO - No applications found for Loch Lomond National Park.
+2025-02-19 14:59:20,569 - INFO - Initiating request for council: West Suffolk (531)
+2025-02-19 14:59:20,678 - INFO - CSRF token : 64513389-982d-4806-824a-0323b297d844
+2025-02-19 14:59:21,130 - INFO - CSRF token : be46f10b-372d-4a21-ade3-b23813068cb2
+2025-02-19 14:59:21,359 - INFO - No applications found for Brecon Beacons National Park.
+2025-02-19 14:59:21,481 - INFO - Initiating request for council: Ebbsfleet Development Corporation (602)
+2025-02-19 14:59:21,709 - INFO - Initiating request for council: Buckinghamshire County Council (604)
+2025-02-19 14:59:21,820 - INFO - CSRF token : b8388869-4f3b-43cd-873d-180f246aeaf4
+2025-02-19 14:59:22,478 - INFO - CSRF token : 5f2cbcc3-a04d-4a87-8218-a2002903ed55
+2025-02-19 14:59:23,009 - INFO - CSRF token : c6eeb415-1c5d-492c-b1eb-fd9b93512e50
+2025-02-19 14:59:24,539 - INFO - No applications found for Cheshire West & Chester.
+2025-02-19 14:59:24,574 - INFO - Initiating request for council: Cambridgeshire County Council (605)
+2025-02-19 14:59:24,678 - INFO - CSRF token : cc9731b4-c4c4-4572-a7e7-5bc2bd517b9b
+2025-02-19 14:59:25,527 - INFO - Initiating request for council: Gloucestershire County Council (613)
+2025-02-19 14:59:25,629 - INFO - CSRF token : 34d29c84-edeb-4e6d-9cae-3e1db08b5dbb
+2025-02-19 14:59:26,388 - INFO - Initiating request for council: South Downs NP (632)
+2025-02-19 14:59:28,123 - INFO - Initiating request for council: Cairngorms National Park (633)
+2025-02-19 14:59:28,233 - INFO - No applications found for Buckinghamshire County Council.
+2025-02-19 14:59:28,463 - INFO - Initiating request for council: Redditch (319)
+2025-02-19 14:59:28,464 - INFO - Initiating request for council: Mid Ulster Council (514)
+2025-02-19 14:59:28,805 - INFO - Initiating request for council: Tameside (392)
+2025-02-19 14:59:28,916 - INFO - CSRF token : 926ce37b-9c1a-4185-8f6f-265f5881bd90
+2025-02-19 14:59:29,197 - INFO - CSRF token : 738414c0-d8b9-43bd-9494-5a048543bf93
+2025-02-19 14:59:31,229 - INFO - CSRF token : e75fa21a-9fc0-44f0-ac71-a6d4ac0fb1ed
+2025-02-19 14:59:31,541 - INFO - No applications found for Gloucestershire County Council.
+2025-02-19 14:59:31,592 - INFO - CSRF token : 36e59e4b-d452-40b9-842e-e3fbc07c9704
+2025-02-19 14:59:31,639 - INFO - No applications found for Cambridgeshire County Council.
+2025-02-19 14:59:31,644 - INFO - CSRF token : beff28b6-5d52-4b4a-ac4a-0012cf48ab68
+2025-02-19 14:59:32,052 - INFO - CSRF token : 68c5c752-88a0-4509-94a7-cea92b3659ec
+2025-02-19 14:59:33,805 - INFO - No applications found for Cairngorms National Park.
+2025-02-19 14:59:34,027 - INFO - No applications found for Tameside.

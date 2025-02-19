@@ -1,0 +1,21 @@
+2025-02-19 14:51:00,677 - INFO - Loading council details from: C:\Users\naafiah.fathima\Desktop\glenigan_scrapy\glenigan\glenigan\councils.json
+2025-02-19 14:51:03,443 - INFO - Initiating request for council: Croydon (1)
+2025-02-19 14:51:03,451 - INFO - Initiating request for council: Bromley (2)
+2025-02-19 14:51:03,456 - INFO - Initiating request for council: Barnet (3)
+2025-02-19 14:51:03,459 - INFO - Initiating request for council: Ealing (4)
+2025-02-19 14:51:03,461 - INFO - Initiating request for council: Lambeth (6)
+2025-02-19 14:51:03,464 - INFO - Initiating request for council: Enfield (7)
+2025-02-19 14:51:03,470 - INFO - Initiating request for council: Brent (8)
+2025-02-19 14:51:03,473 - INFO - Initiating request for council: Lewisham (10)
+2025-02-19 14:51:05,666 - INFO - CSRF token : 63e59058-421d-45c1-a2b2-488173c0603e
+2025-02-19 14:51:05,682 - INFO - CSRF token : bb11a2c2-4664-4d4a-a88c-d1d735b01c1a
+2025-02-19 14:51:06,365 - INFO - CSRF token : 17e60baa-485f-48c0-9ff5-deb78b37e36e
+2025-02-19 14:51:06,652 - INFO - CSRF token : 78507581-6d97-4a56-b09b-0495899b1dd2
+2025-02-19 14:51:06,908 - INFO - CSRF token : 617559e4-81f5-4f9f-8532-0b1e1ef79c3c
+2025-02-19 14:51:06,953 - INFO - CSRF token : 6596bea2-805b-437f-a611-deaeef9808bd
+2025-02-19 14:51:06,985 - INFO - CSRF token : 69348482-30f0-407a-a178-b591b986986c
+2025-02-19 14:51:07,234 - INFO - No applications found for Brent.
+2025-02-19 14:51:08,303 - INFO - CSRF token : 449d334b-7562-4b35-9f3a-a9eade633204
+2025-02-19 14:51:09,529 - INFO - No applications found for Enfield.
+2025-02-19 14:51:10,163 - INFO - No applications found for Bromley.
+2025-02-19 14:51:10,790 - INFO - No applications found for Lewisham.

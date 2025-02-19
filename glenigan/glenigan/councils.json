@@ -3,6 +3,14 @@
         "code": 1,
         "url": "https://publicaccess3.croydon.gov.uk/online-applications/search.do?action=advanced"
     },
+    "Bromley": {
+        "code": 2,
+        "url": "https://searchapplications.bromley.gov.uk/online-applications/search.do?action=advanced"
+    },
+    "Barnet": {
+        "code": 3,
+        "url": "https://publicaccess.barnet.gov.uk/online-applications/search.do?action=advanced"
+    },
     "Ealing": {
         "code": 4,
         "url": "https://pam.ealing.gov.uk/online-applications/search.do?action=advanced"
@@ -10,5 +18,17 @@
     "Lambeth": {
         "code": 6,
         "url": "https://planning.lambeth.gov.uk/online-applications/search.do?action=advanced"
+    },
+    "Enfield": {
+        "code": 7,
+        "url": "https://planningandbuildingcontrol.enfield.gov.uk/online-applications/search.do?action=advanced"
+    },
+    "Brent": {
+        "code": 8,
+        "url": "https://pa.brent.gov.uk/online-applications/search.do?action=advanced"
+    },
+    "Lewisham": {
+        "code": 10,
+        "url": "https://planning.lewisham.gov.uk/online-applications/search.do?action=advanced"
     }
 }
