@@ -3,3 +3,6 @@
 .env
 __pycache__
 glenigan/glenigan/output.json
+glenigan/glenigan/spiders/logs
+glenigan/glenigan/database.ini
+.gitignore
