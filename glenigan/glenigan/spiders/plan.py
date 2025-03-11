@@ -14,7 +14,7 @@ class CouncilScraper(scrapy.Spider):
         super().__init__(*args, **kwargs)
 
         # Load council details from JSON
-        json_path = r"C:\Users\naafiah.fathima\Desktop\glenigan_scrapy\glenigan\glenigan\output.json"
+        json_path = r"C:\Users\naafiah.fathima\Desktop\glenigan_scrapy\glenigan\glenigan\councils.json"
         logger.info(f"Loading council details from: {json_path}")
 
         if not os.path.exists(json_path):
@@ -46,7 +46,7 @@ class CouncilScraper(scrapy.Spider):
         form_data = {
             "_csrf": csrf_token,
             "date(applicationValidatedStart)": "18/02/2025",
-            "date(applicationValidatedEnd)": "18/02/2025",
+            "date(applicationValidatedEnd)": "20/02/2025",
             "searchType": "Application",
         }
 

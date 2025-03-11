@@ -63,8 +63,8 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-#    "glenigan.pipelines.GleniganPipeline": 300,
-     "glenigan.pipelines.MySQLPipeline": 300,
+   "glenigan.pipelines.MySQLPipeline": 300,
+    #  "glenigan.pipelines.CombinedPipeline": 300,
     #  "glenigan.pipelines.HtmlScraperPipeline": 400,
      
 }

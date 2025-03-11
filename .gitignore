@@ -6,3 +6,8 @@ glenigan/glenigan/output.json
 glenigan/glenigan/spiders/logs
 glenigan/glenigan/database.ini
 .gitignore
+old_output.json
+output_status.json
+output.json
+ping.py
+to_json.py
